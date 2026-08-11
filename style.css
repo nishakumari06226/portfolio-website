@@ -425,6 +425,15 @@ img{
     grid-template-columns: 1fr;
     padding: 15px;
   }
+
+  .resume-section{
+    text-align: center;
+    margin:40px 0;
+  }
+  .resume-btn{
+    display: inline-block;
+    margin: 10px;;
+  }
 }
 
 
