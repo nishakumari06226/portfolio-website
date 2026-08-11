@@ -435,6 +435,11 @@ img{
     margin: 10px;
   }
 }
+.resume-btn {
+  display: block;
+  width: fit-content;
+  margin: 12px auto;
+}
 
 
 
